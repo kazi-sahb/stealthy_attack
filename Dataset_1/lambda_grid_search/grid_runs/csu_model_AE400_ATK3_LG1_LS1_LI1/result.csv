@@ -1,0 +1,2 @@
+timestamp,experiment_tag,lambda_AE,lambda_attack,tau_fixed,tau_perc,k_samples,test_stealth,test_exceed_fixed_tau,test_absr,test_impact,test_wgap,False_Alarm_nominal,Attack_Exceed
+2026-02-22T16:23:10,csu_model_AE400_ATK3_LG1_LS1_LI1,400.0,3.0,0.05694942593574535,0.052052668333053526,4,0.613392217830446,0.38660778216955405,0.04852000830748836,0.004020977589990086,-0.05854285600792824,0.01002625925041776,0.9782764382907615

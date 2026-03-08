@@ -1,0 +1,2 @@
+timestamp,experiment_tag,lambda_AE,lambda_attack,tau_fixed,tau_perc,k_samples,test_stealth,test_exceed_fixed_tau,test_absr,test_impact,test_wgap,False_Alarm_nominal,Attack_Exceed
+2026-02-21T13:28:20,truck_model_AE150_ATK3_LG1_LS1_LI1,150.0,3.0,0.06577152758836746,0.0634939968585968,4,0.9746937459703418,0.02530625402965825,0.02331616430000542,0.00171864896561498,0.00032485565164641053,0.010315925209542231,0.0
